@@ -115,7 +115,7 @@ let styles = StyleSheet.create({
     alignItems: 'center',
   },
   untitledContainer: {
-    paddingBottom: 13,
+//     paddingBottom: 13,
   },
   title: {
     color: '#929292',
